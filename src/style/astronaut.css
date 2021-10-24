@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(59,30,56,1) 100%);
+}
+
+.container {
+    height: 60%;
+    display: flex;
+}
+
+.illustration {
+    width: fit-content;
+    height: 100%;
+}
+
+.animated .astronaut {
+    animation-name: movimentoastronaut;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+.animated .fragments {
+    transform-origin: 0 0;
+    animation-name: animfragments;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.animated .asteroids {
+    transform-origin: 0 0;
+    animation-name: animasteroids;
+    animation-duration: 16s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+
+.animated .stars {
+    transform-origin: 0 0;
+    animation-name: animstars;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes movimentoastronaut {
+    from {transform: translate(-20px,15px);}
+    to {transform: translate(10px , -15px);}
+}
+
+@keyframes animfragments {
+    from {transform: translate(-200%, 0px);}
+    to {transform: translate(200% , 0px);}
+}
+
+@keyframes animstars {
+    from {transform: translate(-200%, 0px);}
+    to {transform: translate(200% , 0px);}
+}
+
+@keyframes animasteroids {
+    from   {transform: translate(-200%, 15px);}
+    to {transform: translate(200%, 15px);}
+}
