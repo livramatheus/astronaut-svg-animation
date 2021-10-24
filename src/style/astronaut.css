@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique&display=swap');
+
 * {
     margin: 0;
     box-sizing: border-box;
+    font-size: 1.3rem;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    letter-spacing: 2px;
 }
 
 body {
@@ -14,8 +19,11 @@ body {
 }
 
 .container {
-    height: 60%;
+    height: 70%;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
 }
 
 .illustration {
@@ -56,6 +64,15 @@ body {
     animation-timing-function: linear;
 }
 
+.bouncy-text {
+    animation: bounce 2s infinite ease-in-out;
+    color: rgb(238, 238, 67);
+}
+
+.static-text {
+    color: rgb(187, 182, 182);
+}
+
 @keyframes movimentoastronaut {
     from {transform: translate(-20px,15px);}
     to {transform: translate(10px , -15px);}
@@ -74,4 +91,11 @@ body {
 @keyframes animasteroids {
     from   {transform: translate(-200%, 15px);}
     to {transform: translate(200%, 15px);}
+}
+
+@keyframes bounce {
+    60% {
+         -webkit-transform: scale(1.07);
+         opacity: 0.8;
+    }
 }
