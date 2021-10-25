@@ -44,7 +44,7 @@ The astronaut's SVG was taken from:
 
 <h3 id="live-demo">🌐 Live demo</h3>
 
-Edit and view this project on Code Sand Box:
+Check a live demo [here](https://6r3nu.csb.app/)
 
 <a href="https://codesandbox.io/s/loving-meadow-6r3nu?autoresize=1&fontsize=14&hidenavigation=1&theme=dark">
   <img alt="Edit 6r3nu" src="https://codesandbox.io/static/img/play-codesandbox.svg">
@@ -97,7 +97,7 @@ O SVG do astronauta foi pego de:
 
 <h3 id="live-demo-br">🌐 Live demo</h3>
 
-Veja e edite este código no Code Sand Box:
+Veja este projeto rodando [aqui](https://6r3nu.csb.app/)
 
 <a href="https://codesandbox.io/s/loving-meadow-6r3nu?autoresize=1&fontsize=14&hidenavigation=1&theme=dark">
   <img alt="Edit 6r3nu" src="https://codesandbox.io/static/img/play-codesandbox.svg">
