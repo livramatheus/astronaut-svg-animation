@@ -10,17 +10,18 @@
 
 <!--ts-->
 <ul>
-<li><a href="#about-the-project">About the project</a></li>
-<li><a href="#front-end">Front-end</a><ul>
-<li><a href="#layout">Layout</a></li>
-<li><a href="#technologies-front">Technologies</a></li>
+    <li><a href="#about-the-project">About the project</a></li>
+    <li><a href="#front-end">Front-end</a></li>
+    <ul>
+        <li><a href="#layout">Layout</a></li>
+        <li><a href="#technologies-front">Technologies</a></li>
+    </ul>
+    <li><a href="#inspirations">Inspirations</a></li>
+    <li><a href="#live-demo">Live demo</a></li>
+    <li><a href="#author">Author</a></li>
 </ul>
-</li>
-<li><a href="#inspirations">Inspirations</a></li>
-<li><a href="#live-demo">Live demo</a></li>
-<li><a href="#author">Author</a><!--te-->
-</li>
-</ul>
+<!--te-->
+
 <h2 id="about-the-project">💻 About the project</h2>
 
 <p>I made this project just because I was in the mood of doing animations. As I really liked the final product, I decided to publish it on GitHub. With the illustration beign animated, it will give a nice touch on a website banner or in a 404 page.</p>
@@ -62,17 +63,18 @@
 
 <!--ts-->
 <ul>
-<li><a href="#about-the-project-br">Sobre o projeto</a></li>
-<li><a href="#front-end-br">Front-end</a><ul>
-<li><a href="#layout-br">Layout</a></li>
-<li><a href="#technologies-front-br">Tecnologias</a></li>
+    <li><a href="#about-the-project-br">Sobre o projeto</a></li>
+    <li><a href="#front-end-br">Front-end</a></li>
+    <ul>
+        <li><a href="#layout-br">Layout</a></li>
+        <li><a href="#technologies-front-br">Tecnologias</a></li>
+    </ul>
+    <li><a href="#inspirations-br">Inspirações</a></li>
+    <li><a href="#live-demo-br">Live demo</a></li>
+    <li><a href="#autor-br">Autor</a></li>
 </ul>
-</li>
-<li><a href="#inspirations-br">Inspirações</a></li>
-<li><a href="#live-demo-br">Live demo</a></li>
-<li><a href="#autor-br">Autor</a><!--te-->
-</li>
-</ul>
+<!--te-->
+
 <h2 id="about-the-project-br">💻 Sobre o projeto</h2>
 
 <p>Fiz este projeto porque estava com vontade de fazer animações. Como gostei muito do resultado final, resolvi publicá-lo no GitHub. Como a ilustração é animada, ela dará um toque bacana em um banner de um site ou em uma página 404.</p>
