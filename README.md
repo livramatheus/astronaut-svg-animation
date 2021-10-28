@@ -25,14 +25,15 @@
 <h2 id="about-the-project">💻 About the project</h2>
 
 <p>I made this project just because I was in the mood of doing animations. As I really liked the final product, I decided to publish it on GitHub. With the illustration beign animated, it will give a nice touch on a website banner or in a 404 page.</p>
-<h2 id="front-end">Front-end</h2>
 
-<h3 id="live-demo">🌐 Live demo</h3>
+<h2 id="live-demo">🌐 Live demo</h2>
 
 <p>Check a live demo <a href="https://6r3nu.csb.app/">here</a></p>
 <p><a href="https://codesandbox.io/s/loving-meadow-6r3nu?autoresize=1&fontsize=14&hidenavigation=1&theme=dark">
   <img alt="Edit 6r3nu" src="https://codesandbox.io/static/img/play-codesandbox.svg">
 </a></p>
+
+<h2 id="front-end">Front-end</h2>
 
 <p>The front-end was built with HTML and CSS only, you can check below how the project look like (at the end of this documentation you can check a <a href="#live-demo">live version</a>):</p>
 <h3 id="layout">📐 Layout</h3>
