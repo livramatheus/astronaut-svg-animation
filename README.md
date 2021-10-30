@@ -35,7 +35,7 @@
 
 <h2 id="front-end">Front-end</h2>
 
-<p>The front-end was built with HTML and CSS only, you can check below how the project look like (at the end of this documentation you can check a <a href="#live-demo">live version</a>):</p>
+<p>The front-end was built with HTML and CSS only, you can check below how the project look like:</p>
 <h3 id="layout">📐 Layout</h3>
 
 <div style="display: flex">
@@ -91,7 +91,7 @@
 
 <h2 id="front-end-br">Front-end</h2>
 
-<p>O front-end foi construído apenas com HTML e CSS, você pode verificar abaixo como é o projeto (no final desta documentação você pode verificar uma <a href="#live-demo-br">versão ao vivo</a>):</p>
+<p>O front-end foi construído apenas com HTML e CSS, você pode verificar abaixo como é o projeto:</p>
 <h3 id="layout-br">📐 Layout</h3>
 
 <div style="display: flex">
