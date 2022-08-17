@@ -24,7 +24,7 @@
 
 <h2 id="about-the-project">💻 About the project</h2>
 
-<p>I made this project just because I was in the mood of doing animations. As I really liked the final product, I decided to publish it on GitHub. With the illustration beign animated, it will give a nice touch on a website banner or in a 404 page.</p>
+<p>I made this project just because I was in the mood of doing animations. As I really liked the final product, I decided to publish it on GitHub. With the illustration being animated, it will give a nice touch on a website banner or on a 404 page.</p>
 
 <h2 id="live-demo">🌐 Live demo</h2>
 
@@ -35,7 +35,7 @@
 
 <h2 id="front-end">Front-end</h2>
 
-<p>The front-end was built with HTML and CSS only, you can check below how the project look like:</p>
+<p>The front-end was built with HTML and CSS only, you can check below how the project looks like:</p>
 <h3 id="layout">📐 Layout</h3>
 
 <div style="display: flex">
@@ -44,7 +44,7 @@
 
 <h3 id="technologies-front">🔨 Technologies</h3>
 
-<p>The following techlogies were used to build Astronaut SVG Animation:</p>
+<p>The following technologies were used to build Astronaut SVG Animation:</p>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
